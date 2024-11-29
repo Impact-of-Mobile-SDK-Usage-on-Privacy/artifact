@@ -58,3 +58,6 @@
 [submodule "AppLovin-ios"]
 	path = AppLovin-ios
 	url = https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/AppLovin-ios
+[submodule "plotting"]
+	path = plotting
+	url = https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/plotting
