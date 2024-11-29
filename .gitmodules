@@ -1,0 +1,60 @@
+[submodule "MetaAppEvents-android"]
+	path = MetaAppEvents-android
+	url = https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/MetaAppEvents-android
+[submodule "MetaAppEvents-ios"]
+	path = MetaAppEvents-ios
+	url = https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/MetaAppEvents-ios
+[submodule "Amplitude-android"]
+	path = Amplitude-android
+	url = https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/Amplitude-android
+[submodule "Amplitude-ios"]
+	path = Amplitude-ios
+	url = https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/Amplitude-ios
+[submodule "AppsFlyer-android"]
+	path = AppsFlyer-android
+	url = https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/AppsFlyer-android
+[submodule "AppsFlyer-ios"]
+	path = AppsFlyer-ios
+	url = https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/AppsFlyer-ios
+[submodule "Firebase-android"]
+	path = Firebase-android
+	url = https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/Firebase-android
+[submodule "Firebase-ios"]
+	path = Firebase-ios
+	url = https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/Firebase-ios
+[submodule "Flurry-android"]
+	path = Flurry-android
+	url = https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/Flurry-android
+[submodule "Flurry-ios"]
+	path = Flurry-ios
+	url = https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/Flurry-ios
+[submodule "Unity3DAds-android"]
+	path = Unity3DAds-android
+	url = https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/Unity3DAds-android
+[submodule "Unity3DAds-ios"]
+	path = Unity3DAds-ios
+	url = https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/Unity3DAds-ios
+[submodule "FacebookAds-android"]
+	path = FacebookAds-android
+	url = https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/FacebookAds-android
+[submodule "FacebookAds-ios"]
+	path = FacebookAds-ios
+	url = https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/FacebookAds-ios
+[submodule "AdMob-android"]
+	path = AdMob-android
+	url = https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/AdMob-android
+[submodule "AdMob-ios"]
+	path = AdMob-ios
+	url = https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/AdMob-ios
+[submodule "Vungle-android"]
+	path = Vungle-android
+	url = https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/Vungle-android
+[submodule "Vungle-ios"]
+	path = Vungle-ios
+	url = https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/Vungle-ios
+[submodule "AppLovin-android"]
+	path = AppLovin-android
+	url = https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/AppLovin-android
+[submodule "AppLovin-ios"]
+	path = AppLovin-ios
+	url = https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/AppLovin-ios
