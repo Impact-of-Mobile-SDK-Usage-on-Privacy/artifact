@@ -25,5 +25,15 @@ While each code compiles we replaced the identifiers used for each SDK with plac
 Thus, to successfully run the apps you have to create your own account.
 Furthermore, developing and deploying iOS applications requires an Apple Developer Account and Apple hardware to run the corresponding development tools.
 Due to those hindrances we only provide the code as is and only inquire for the `available` artifact level.
-We also added our plotting code with a requirements.txt for the required python packages. 
+We also added our plotting code with a requirements.txt for the required python packages.
 Using the analysis-plugin results in a json file that can be processed by this code.
+
+
+## How to use the Artifact
+
+If you want to use the artifact you have to:
+1. Compile our (or your own Apps) implementing the SDK under scruteny
+2. Run the App and collect the traffic using the [scala-appanalyzer](https://github.com/App-Analysis/scala-appanalyzer) and our provided [plugin](https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/plugin-analysis/tree/068fb36c6914cbba0a6cff89e1dfe4034b30d282)
+3. Analyze the traffic using the [scala-plotalyzed](https://github.com/App-Analysis/scala-plotalyzer) and our provided [plugin](https://github.com/App-Analysis/scala-plotalyzer) to generate a summary json
+4. Copy the json into the same folder as the [plotting notebook](https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/plotting/tree/8c0d74eb3fe680061f0318c8b18f81ef21c6b4bd) and start `jupyter-lab`
+   - our plotting notebook expects two files one `consent.json` for the traffic collected while providing consent and `noconsent.json` for traffic collected while not giving consent if you only want to analyze one of those scenarios feel free to adapt the python code in the notebook
